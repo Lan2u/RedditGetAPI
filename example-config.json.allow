@@ -1,0 +1,9 @@
+# This config file is not ready to be used.
+# Each of the fields below must be filled in.
+# This message should be removed and the file renamed to config.json.
+
+{
+    "clientSecret": "_fPvV9P4tObr2joeHW1W0MzfzJs", # The client secret from the reddit app registration.
+    "clientId": "rU8o17HF2BMiEg", # The client id from the reddit app registration.
+    "state": "bigelephantmouse" # The unique string used as part of getting the reddit app token (randomly chosen).
+}
